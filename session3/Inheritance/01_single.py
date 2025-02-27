@@ -16,3 +16,5 @@ obj = Student()# object create child class
 obj.collegename()
 
 obj.studentinfo()
+
+
