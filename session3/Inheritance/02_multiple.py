@@ -40,4 +40,10 @@ obj=Exam()
 obj.college_name()
 obj.student_info()
 
- 
+
+
+
+
+
+
+
