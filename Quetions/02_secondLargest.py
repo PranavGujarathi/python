@@ -26,3 +26,5 @@ if second_largest != -1:
     print(f"Second Largest: {second_largest}")
 else:
     print("No second largest element found")
+
+
